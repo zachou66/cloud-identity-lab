@@ -1,0 +1,28 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20260611164518
+Username: PC\ZAO
+RunAs User: PC\ZAO
+Configuration Name: 
+Machine: PC (Microsoft Windows NT 10.0.26200.0)
+Host Application: C:\WINDOWS\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 33700
+PSVersion: 5.1.26100.8457
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.8457
+BuildVersion: 10.0.26100.8457
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\sample-logs\run2-created.txt
+WARNING: SKIPPED liam.foster@zaolab.onmicrosoft.com (already exists)
+WARNING: SKIPPED noah.brooks@zaolab.onmicrosoft.com (already exists)
+WARNING: SKIPPED sofia.nguyen@zaolab.onmicrosoft.com (already exists)
+WARNING: SKIPPED ava.reyes@zaolab.onmicrosoft.com (already exists)
+WARNING: SKIPPED ethan.cole@zaolab.onmicrosoft.com (already exists)
+**********************
+Windows PowerShell transcript end
+End time: 20260611164522
+**********************
